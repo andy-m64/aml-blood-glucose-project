@@ -14,7 +14,7 @@ The code above represents a collaborative effort of the team consisting of: Andy
 
 If you are interested in accessing the Anvil application user interface, the link can be found here: https://a3m7qhut2ycixilv.anvil.app/CRZXZOYMBFSHPXQILTMJBXV7
 
-Unfortunately to use the interface, the backend (server-side) module needs to be running concurrently on a machine somewhere, where the hybrid model and all other necessary preprocessing code is stored to supplement the user interface. You will need to contact Andy Ma, the site's owner, to run the backend to test the user application with the .csv file titled 'Anvil_test.csv' in the Git repository. He can be reached via email through andy.m@utexas.edu.
+Unfortunately, to use the interface, the backend (server-side) module needs to be running concurrently on a machine somewhere, where the hybrid model and all other necessary preprocessing code is stored to supplement the user interface. You will need to contact Andy Ma, the site's owner, to run the backend to test the user application with the .csv file titled 'Anvil_test.csv' in the Git repository. He can be reached via email through andy.m@utexas.edu.
 
 
 
