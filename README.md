@@ -1,6 +1,8 @@
 # AML-blood-glucose-project
 
-Project_EDA.ipynb contains exploratory data analysis pertaining to our predictive task. However, most of the charts found in that file are not the final ones incorporated in our presentation/project report. The file also contains the preprocessing/data cleaning code used to modify the original dataset using a variety of imputation methods and feature removal techniques. The final processed .csv file is unfortunately too big for GitHub to accept, but we have provided a truncated version (about 10,000 rows) of the preprocessed dataset titled 'New_clean_dataset.csv'.
+Project_EDA.ipynb contains exploratory data analysis pertaining to our predictive task. However, most of the charts found in that file are not the final ones incorporated in our presentation/project report. The file also contains the first step in preprocessing/cleaning the data by rebalancing the number of rows for each patient in the data. The resulting dataframe is passed as a .csv file to the 'Preprocess_data_final.ipynb' notebook, where missing values are handled through imputation and feature removal.
+
+The final processed .csv file is unfortunately too big for GitHub to accept, but we have provided a truncated version (about 10,000 rows) of the preprocessed dataset titled 'New_clean_dataset.csv'.
 
 Blood_Glucose_EDA_Model_Analysis.ipynb contains most of the preliminary models used to predict bg+1:00 before the hybrid model is introduced. Most of the EDA charts included within our presentation/report originate from this file as well. The best performing Random Forest model can be found in that notebook. In addition, other ensemble and regression methods such as XGBoost, CatBoost, and Elastic Net are also contained within the file. 
 
