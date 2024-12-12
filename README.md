@@ -8,3 +8,6 @@ Final_RNN_and_Transformer_Code.ipynb contains the final hybrid RNN and transform
 
 
 The code represents a collaborative effort of the team consisting of: Andy Ma, Carissa Ing, Sarah Dominguez, Siboney Cardoso, and Utkarsh Garg.
+
+
+To Prof. Ghosh and the TA team, thank you for teaching us a great deal about machine/deep learning over the semester!
