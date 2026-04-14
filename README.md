@@ -1,5 +1,7 @@
 # AML-blood-glucose-project
 
+*Medium Article:* https://medium.com/@andycode321/forecasting-blood-glucose-levels-for-type-i-diabetes-patients-using-machine-learning-ca71dc08994e
+
 Project_EDA.ipynb contains exploratory data analysis pertaining to our predictive task. However, most of the charts found in that file are not the final ones incorporated in our presentation/project report. The file also contains the first step in preprocessing/cleaning the data by rebalancing the number of rows for each patient in the data. The resulting dataframe is passed as a .csv file to the 'Preprocess_data_final.ipynb' notebook, where missing values are handled through imputation and feature removal.
 
 The final processed .csv file is unfortunately too big for GitHub to accept, but we have provided a truncated version (about 10,000 rows) of the preprocessed dataset titled 'New_clean_dataset.csv'.
